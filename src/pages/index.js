@@ -122,7 +122,7 @@ const index = () => {
             Run
           </button>
       </div>
-      <h1 className='block mx-auto mt-4 text-black font-bold py-2 px-4 rounded'>Output</h1>
+      <h1 className='block mx-auto mt-4 text-black font-bold py-2 px-4 rounded mb-[5rem]'>Output</h1>
       
     
     </div>
